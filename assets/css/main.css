@@ -2681,6 +2681,12 @@ input, select, textarea {
 			width: 50%;
 		}
 
+		.features article .wide {
+			display: inline-block;
+			vertical-align: middle;
+			width: 100%;
+		}
+
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
